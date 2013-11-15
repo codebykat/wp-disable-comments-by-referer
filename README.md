@@ -29,6 +29,10 @@ They will then be able to see and leave comments.  This plugin makes no attempt 
 
 Yes.  Blame the HTTP specification.
 
+## Screenshots ##
+
+1. Admin interface.
+
 ## Changelog ##
 
 ### 0.1 ###
