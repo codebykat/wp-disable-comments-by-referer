@@ -11,11 +11,11 @@ Ban visitors from certain sites from viewing or adding comments.
 
 == Description ==
 
-This plugin allows you to selectively disable comments for visitors from certain sites (e.g. reddit).  If a visitors HTTP referer matches one of the hosts you've blacklisted, your post will look as if comments have been disabled (neither existing comments nor the new comment form will be shown).
+This plugin allows you to selectively disable comments for visitors from certain sites (e.g. reddit).  If a visitor's HTTP referer matches one of the hosts you've blacklisted, your post will look as if comments have been disabled (neither existing comments nor the new comment form will be shown).
 
 == Installation ==
 
-1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
+1. Unzip all files to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Edit the list of hostnames you wish to block under Settings->Discussion.
 
