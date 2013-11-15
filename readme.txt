@@ -1,6 +1,6 @@
 === Disable Comments By Referer ===
 Contributors: codebykat
-Tags: comments, spam
+Tags: blacklist, comments, referer, referrer, spam
 Requires at least: 3.7
 Tested up to: 3.8
 Stable tag: trunk
